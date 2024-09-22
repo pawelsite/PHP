@@ -1,2 +1,2 @@
 <?php
-echo "siema";
+echo "Hello World!";
